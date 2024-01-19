@@ -11,7 +11,7 @@ import SwiftUI
 struct StackLayoutFinalApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            StackView()
         }
     }
 }
